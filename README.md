@@ -12,7 +12,7 @@ Este é um projeto simples de previsão do tempo feito com HTML, CSS e JavaScrip
 
 📍 Interface limpa e responsiva
 
-🧠 Objetivo
+*🧠 Objetivo*
 Este projeto foi desenvolvido com o objetivo de:
 
 Praticar consumo de APIs
